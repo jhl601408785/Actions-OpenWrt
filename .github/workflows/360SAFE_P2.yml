@@ -19,6 +19,7 @@ on:
         required: false
         default: 'false'
 
+env:
 #  REPO_URL: https://github.com/coolsnowwolf/lede
 #  REPO_URL: https://github.com/jhl601408785/openwrt-19.07.3.git
   REPO_URL: https://github.com/openwrt/openwrt
